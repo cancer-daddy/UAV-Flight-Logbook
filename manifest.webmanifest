@@ -1,0 +1,1 @@
+{"name":"GEO 248 UAV Flight Logbook","short_name":"UAV Logbook","description":"Offline UAV flight logging and PDF/CSV export","start_url":"./","scope":"./","display":"standalone","background_color":"#edf3f6","theme_color":"#102a43","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
